@@ -1,8 +1,13 @@
+import { FormEvent, FormEventHandler } from "react";
 import {
   LoaderFunction,
   useLoaderData,
   useNavigate,
   Link,
+  Form,
+  ActionFunction,
+  redirect,
+  useSubmit,
 } from "remix";
 import { getSeasons } from "~/data";
 import { Episode } from "~/types";
@@ -14,6 +19,15 @@ export const loader: LoaderFunction = ({ params: { season } }) => {
     seasons: seasons.map((s) => s.index),
     selectedSeason: seasons.find((s) => s.index.toString() === season),
   };
+};
+
+export const action: ActionFunction = async ({ request }) => {
+  console.log(request);
+  const formData = await request.formData();
+
+  const season = formData.get("season");
+  console.log(season);
+  return redirect(`/season/${season}`);
 };
 
 const paintingSrc = (episode: Episode) => {
@@ -28,7 +42,11 @@ const episodeLabel = (episode: Episode) => {
 
 export default function Season() {
   const { seasons, selectedSeason } = useLoaderData();
-  const navigate = useNavigate();
+  const submit = useSubmit();
+
+  function handleChange(e: FormEvent<HTMLFormElement>) {
+    submit(e.currentTarget, { replace: true });
+  }
 
   return (
     <div>
@@ -46,14 +64,11 @@ export default function Season() {
             <label htmlFor="search" className="sr-only">
               Search
             </label>
-            <form>
+            <Form method="post" onChange={handleChange}>
               <div className="mt-1 relative rounded-md shadow-sm">
                 <select
                   name="season"
-                  onChange={(e: React.ChangeEvent<HTMLSelectElement>) =>
-                    navigate(`/season/${e.target.value}`)
-                  }
-                  value={selectedSeason.index}
+                  defaultValue={selectedSeason.index}
                   className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
                 >
                   {seasons.map((index: number) => (
@@ -63,7 +78,7 @@ export default function Season() {
                   ))}
                 </select>
               </div>
-            </form>
+            </Form>
           </div>
         </div>
       </div>

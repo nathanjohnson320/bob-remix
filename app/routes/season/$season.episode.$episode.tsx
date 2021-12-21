@@ -48,7 +48,7 @@ export default function Episode() {
               <figure>
                 <div className="aspect-w-12 aspect-h-7 lg:aspect-none">
                   <iframe
-                    className="rounded-lg shadow-lg object-cover object-center w-full h-72"
+                    className="rounded-lg shadow-lg object-cover object-center w-full h-80"
                     src={iframeUrl(episode.url)}
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
