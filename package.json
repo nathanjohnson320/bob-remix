@@ -1,0 +1,45 @@
+{
+  "private": true,
+  "name": "bob-ross",
+  "description": "",
+  "license": "",
+  "scripts": {
+    "build": "npm run build:css && remix build",
+    "build:css": "tailwindcss -i ./styles/tailwind.css -o ./app/tailwind.css --minify",
+    "dev": "concurrently \"npm run dev:css\" \"remix dev\" \"npm run start\"",
+    "dev:css": "tailwindcss -i ./styles/tailwind.css -o ./app/tailwind.css --watch",
+    "postinstall": "remix setup cloudflare-workers",
+    "build:worker": "esbuild --define:process.env.NODE_ENV='\"production\"' --minify --bundle --sourcemap --outdir=dist ./worker",
+    "dev:worker": "esbuild --define:process.env.NODE_ENV='\"development\"' --bundle --sourcemap --outdir=dist ./worker",
+    "start": "miniflare --build-command \"npm run dev:worker\" --watch",
+    "deploy": "npm run build && wrangler publish"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.4.2",
+    "@heroicons/react": "^1.0.5",
+    "@remix-run/cloudflare-workers": "^1.1.1",
+    "@remix-run/react": "^1.1.1",
+    "@tailwindcss/forms": "^0.4.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "remix": "^1.1.1"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^2.2.2",
+    "@cloudflare/wrangler": "^1.19.6",
+    "@remix-run/dev": "^1.1.1",
+    "@remix-run/serve": "^1.1.1",
+    "@types/react": "^17.0.24",
+    "@types/react-dom": "^17.0.9",
+    "concurrently": "^6.5.0",
+    "esbuild": "0.13.14",
+    "miniflare": "2.0.0-next.3",
+    "tailwindcss": "^3.0.7",
+    "typescript": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "sideEffects": false,
+  "main": "dist/worker.js"
+}

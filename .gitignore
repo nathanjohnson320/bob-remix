@@ -1,0 +1,10 @@
+node_modules
+
+/.cache
+/build
+/dist
+/public/build
+.elixir_ls
+erl_crash.dump
+.mf
+app/tailwind.css
