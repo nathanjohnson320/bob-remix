@@ -1,8 +1,7 @@
-import { FormEvent, FormEventHandler } from "react";
+import { FormEvent } from "react";
 import {
   LoaderFunction,
   useLoaderData,
-  useNavigate,
   Link,
   Form,
   ActionFunction,
@@ -15,18 +14,24 @@ import { Episode } from "~/types";
 export const loader: LoaderFunction = ({ params: { season } }) => {
   const seasons = getSeasons();
 
+  const selectedSeason = seasons.find((s) => s.index.toString() === season);
+
+  if (!selectedSeason) {
+    throw new Response("Not Found", {
+      status: 404,
+    });
+  }
+
   return {
     seasons: seasons.map((s) => s.index),
-    selectedSeason: seasons.find((s) => s.index.toString() === season),
+    selectedSeason,
   };
 };
 
 export const action: ActionFunction = async ({ request }) => {
-  console.log(request);
   const formData = await request.formData();
 
   const season = formData.get("season");
-  console.log(season);
   return redirect(`/season/${season}`);
 };
 
