@@ -28,7 +28,7 @@ export function links() {
 }
 
 export default function App() {
-  const navigation = [{ name: "Browse", href: "/season/1" }];
+  const navigation = [{ name: "Browse", href: "/series/1/season/1" }];
 
   return (
     <html lang="en">

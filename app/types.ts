@@ -1,7 +1,14 @@
+export type Series = {
+  index: number;
+  title: string;
+  seasons: Season[];
+};
+
 export type Season = {
   index: number;
   episodes: Episode[];
 };
+
 export type Episode = {
   index: number;
   premier_date: string;

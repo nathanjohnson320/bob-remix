@@ -8,13 +8,22 @@ import {
   redirect,
   useSubmit,
 } from "remix";
-import { getSeasons } from "~/data";
+import { listSeasons, listSeries } from "~/data";
 import { Episode } from "~/types";
 
-export const loader: LoaderFunction = ({ params: { season } }) => {
-  const seasons = getSeasons();
+export const loader: LoaderFunction = ({ params: { series, season } }) => {
+  const allSeries = listSeries();
+  const selectedSeries = allSeries.find(
+    (s) => s.index === (Number(series) ?? 1)
+  );
+  if (!selectedSeries) {
+    throw new Response("Not Found", {
+      status: 404,
+    });
+  }
 
-  const selectedSeason = seasons.find((s) => s.index.toString() === season);
+  const seasons = listSeasons(Number(series) ?? 1);
+  const selectedSeason = seasons.find((s) => s.index === (Number(season) ?? 1));
 
   if (!selectedSeason) {
     throw new Response("Not Found", {
@@ -23,7 +32,9 @@ export const loader: LoaderFunction = ({ params: { season } }) => {
   }
 
   return {
+    series: allSeries.map((s) => ({ index: s.index, title: s.title })),
     seasons: seasons.map((s) => s.index),
+    selectedSeries,
     selectedSeason,
   };
 };
@@ -32,7 +43,8 @@ export const action: ActionFunction = async ({ request }) => {
   const formData = await request.formData();
 
   const season = formData.get("season");
-  return redirect(`/season/${season}`);
+  const series = formData.get("series");
+  return redirect(`/series/${series}/season/${season}`);
 };
 
 const paintingSrc = (episode: Episode) => {
@@ -46,7 +58,7 @@ const episodeLabel = (episode: Episode) => {
 };
 
 export default function Season() {
-  const { seasons, selectedSeason } = useLoaderData();
+  const { series, selectedSeries, seasons, selectedSeason } = useLoaderData();
   const submit = useSubmit();
 
   function handleChange(e: FormEvent<HTMLFormElement>) {
@@ -72,6 +84,20 @@ export default function Season() {
             <Form method="post" onChange={handleChange}>
               <div className="mt-1 relative rounded-md shadow-sm">
                 <select
+                  name="series"
+                  defaultValue={selectedSeries.index}
+                  className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+                >
+                  {series.map(
+                    ({ index, title }: { index: number; title: string }) => (
+                      <option key={index} value={index}>
+                        {title}
+                      </option>
+                    )
+                  )}
+                </select>
+
+                <select
                   name="season"
                   defaultValue={selectedSeason.index}
                   className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 rounded-md focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
@@ -91,7 +117,7 @@ export default function Season() {
         {selectedSeason.episodes.map((episode: Episode) => (
           <Link
             key={`${episode.seasonId}-${episode.index}`}
-            to={`/season/${episode.seasonId}/episode/${episode.index}`}
+            to={`/series/${selectedSeries.index}/season/${episode.seasonId}/episode/${episode.index}`}
             className="cursor-pointer flex flex-col rounded-lg shadow-lg overflow-hidden no-underline"
           >
             <div className="flex-shrink-0 flex justify-center">

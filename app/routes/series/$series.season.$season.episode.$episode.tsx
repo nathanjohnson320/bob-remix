@@ -1,15 +1,20 @@
 import { LoaderFunction, useLoaderData } from "remix";
-import { getSeasons } from "~/data";
+import { getEpisode } from "~/data";
 import { Color, Episode, Tool } from "~/types";
 import { VideoCameraIcon } from "@heroicons/react/solid";
 
-export const loader: LoaderFunction = ({ params: { season, episode } }) => {
-  const seasons = getSeasons();
+export const loader: LoaderFunction = ({
+  params: { series, season, episode },
+}) => {
+  const ep = getEpisode(Number(series), Number(season), Number(episode));
+  if (!ep) {
+    throw new Response("Not Found", {
+      status: 404,
+    });
+  }
 
   return {
-    episode: seasons
-      ?.find((s) => s.index.toString() === season)
-      ?.episodes.find((e) => e.index.toString() === episode),
+    episode: ep,
   };
 };
 
@@ -21,9 +26,9 @@ const toTitleCase = (str: string) => {
 
 const iframeUrl = (url: string) => {
   const parsed = new URL(url);
-  const version = parsed.searchParams.get('v') ?? '';
+  const version = parsed.searchParams.get("v") ?? "";
   return `https://www.youtube.com/embed/${version}`;
-}
+};
 
 export default function Episode() {
   const { episode } = useLoaderData();
@@ -69,7 +74,6 @@ export default function Episode() {
             <div className="text-base max-w-prose mx-auto lg:max-w-none">
               <p className="text-lg text-gray-500">{episode.summary}</p>
             </div>
-
 
             <div className="mt-5 prose prose-indigo text-gray-500 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
               <p>Tools</p>
