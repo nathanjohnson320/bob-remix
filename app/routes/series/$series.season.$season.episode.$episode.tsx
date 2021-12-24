@@ -4,17 +4,17 @@ import { Color, Episode, Tool } from "~/types";
 import { VideoCameraIcon } from "@heroicons/react/solid";
 
 export const loader: LoaderFunction = ({
-  params: { series, season, episode },
+  params,
 }) => {
-  const ep = getEpisode(Number(series), Number(season), Number(episode));
-  if (!ep) {
+  const episode = getEpisode(Number(params.series), Number(params.season), Number(params.episode));
+  if (!episode) {
     throw new Response("Not Found", {
       status: 404,
     });
   }
 
   return {
-    episode: ep,
+    episode,
   };
 };
 

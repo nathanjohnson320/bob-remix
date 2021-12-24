@@ -11,19 +11,20 @@ import {
 import { listSeasons, listSeries } from "~/data";
 import { Episode } from "~/types";
 
-export const loader: LoaderFunction = ({ params: { series, season } }) => {
-  const allSeries = listSeries();
-  const selectedSeries = allSeries.find(
-    (s) => s.index === (Number(series) ?? 1)
+export const loader: LoaderFunction = ({ params }) => {
+  const series = listSeries();
+  const selectedSeries = series.find(
+    (s) => s.index === (Number(params.series) ?? 1)
   );
+  
   if (!selectedSeries) {
     throw new Response("Not Found", {
       status: 404,
     });
   }
 
-  const seasons = listSeasons(Number(series) ?? 1);
-  const selectedSeason = seasons.find((s) => s.index === (Number(season) ?? 1));
+  const seasons = listSeasons(selectedSeries.index);
+  const selectedSeason = seasons.find((s) => s.index === (Number(params.season) ?? 1));
 
   if (!selectedSeason) {
     throw new Response("Not Found", {
@@ -32,7 +33,7 @@ export const loader: LoaderFunction = ({ params: { series, season } }) => {
   }
 
   return {
-    series: allSeries.map((s) => ({ index: s.index, title: s.title })),
+    series: series.map((s) => ({ index: s.index, title: s.title })),
     seasons: seasons.map((s) => s.index),
     selectedSeries,
     selectedSeason,
