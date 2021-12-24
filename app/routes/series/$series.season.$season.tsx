@@ -8,15 +8,13 @@ import {
   redirect,
   useSubmit,
 } from "remix";
-import { listSeasons, listSeries } from "~/data";
+import { getSeries, getSeason, listSeasons, listSeries } from "~/data";
 import { Episode } from "~/types";
 
 export const loader: LoaderFunction = ({ params }) => {
   const series = listSeries();
-  const selectedSeries = series.find(
-    (s) => s.index === (Number(params.series) ?? 1)
-  );
-  
+  const selectedSeries = series.find((s) => s.index === Number(params.series));
+
   if (!selectedSeries) {
     throw new Response("Not Found", {
       status: 404,
@@ -24,7 +22,7 @@ export const loader: LoaderFunction = ({ params }) => {
   }
 
   const seasons = listSeasons(selectedSeries.index);
-  const selectedSeason = seasons.find((s) => s.index === (Number(params.season) ?? 1));
+  const selectedSeason = seasons.find((s) => s.index === Number(params.season));
 
   if (!selectedSeason) {
     throw new Response("Not Found", {
@@ -43,8 +41,9 @@ export const loader: LoaderFunction = ({ params }) => {
 export const action: ActionFunction = async ({ request }) => {
   const formData = await request.formData();
 
-  const season = formData.get("season");
-  const series = formData.get("series");
+  const series = getSeries(Number(formData.get("series")))?.index ?? 1;
+  const season = getSeason(series, Number(formData.get("season")))?.index ?? 1;
+
   return redirect(`/series/${series}/season/${season}`);
 };
 
