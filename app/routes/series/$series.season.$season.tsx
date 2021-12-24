@@ -48,8 +48,8 @@ export const action: ActionFunction = async ({ request }) => {
   return redirect(`/series/${series}/season/${season}`);
 };
 
-const paintingSrc = (episode: Episode) => {
-  return `/img/season/${episode.seasonId}/${episode.index}.jpg`;
+const paintingSrc = (series: number, episode: Episode) => {
+  return `/img/series/${series}/season/${episode.seasonId}/${episode.index}.jpg`;
 };
 
 const episodeLabel = (episode: Episode) => {
@@ -123,7 +123,7 @@ export default function Season() {
           >
             <div className="flex-shrink-0 flex justify-center">
               <img
-                src={paintingSrc(episode)}
+                src={paintingSrc(selectedSeries.index, episode)}
                 alt={episode.painting.title}
                 loading="lazy"
                 className="h-72"
