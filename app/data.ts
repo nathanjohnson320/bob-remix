@@ -22,7 +22,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4401,
+                episodeId: 5728,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -102,7 +102,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4402,
+                episodeId: 5729,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -186,7 +186,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4403,
+                episodeId: 5730,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -260,7 +260,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4404,
+                episodeId: 5731,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -320,7 +320,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "sap green",
-                episodeId: 4405,
+                episodeId: 5732,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -398,7 +398,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4406,
+                episodeId: 5733,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -461,7 +461,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4407,
+                episodeId: 5734,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -549,7 +549,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4408,
+                episodeId: 5735,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -623,7 +623,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4409,
+                episodeId: 5736,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -702,7 +702,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4410,
+                episodeId: 5737,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -785,7 +785,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4411,
+                episodeId: 5738,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -868,7 +868,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4412,
+                episodeId: 5739,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -932,7 +932,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4413,
+                episodeId: 5740,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1012,7 +1012,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4414,
+                episodeId: 5741,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1110,7 +1110,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4415,
+                episodeId: 5742,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1185,7 +1185,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4416,
+                episodeId: 5743,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1273,7 +1273,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4417,
+                episodeId: 5744,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1336,7 +1336,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4418,
+                episodeId: 5745,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1429,7 +1429,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4419,
+                episodeId: 5746,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1522,7 +1522,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4420,
+                episodeId: 5747,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1616,7 +1616,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4421,
+                episodeId: 5748,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1705,7 +1705,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "half black",
-                episodeId: 4422,
+                episodeId: 5749,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1793,7 +1793,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4423,
+                episodeId: 5750,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1901,7 +1901,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4424,
+                episodeId: 5751,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -1994,7 +1994,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4425,
+                episodeId: 5752,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2087,7 +2087,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4426,
+                episodeId: 5753,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2195,7 +2195,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4427,
+                episodeId: 5754,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2293,7 +2293,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4428,
+                episodeId: 5755,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2371,7 +2371,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4429,
+                episodeId: 5756,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2465,7 +2465,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "liquid black",
-                episodeId: 4430,
+                episodeId: 5757,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2543,7 +2543,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4431,
+                episodeId: 5758,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2617,7 +2617,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4432,
+                episodeId: 5759,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2710,7 +2710,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4433,
+                episodeId: 5760,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2807,7 +2807,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4434,
+                episodeId: 5761,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2905,7 +2905,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4435,
+                episodeId: 5762,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -2998,7 +2998,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4436,
+                episodeId: 5763,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -3081,7 +3081,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4437,
+                episodeId: 5764,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -3179,7 +3179,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4438,
+                episodeId: 5765,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -3272,7 +3272,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4439,
+                episodeId: 5766,
                 artist: {
                   name: "Steve Ross",
                 },
@@ -3375,7 +3375,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4440,
+                episodeId: 5767,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -3444,7 +3444,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4441,
+                episodeId: 5768,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -3524,7 +3524,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4442,
+                episodeId: 5769,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -3609,7 +3609,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "saw blade",
-                episodeId: 4443,
+                episodeId: 5770,
                 artist: {
                   name: "Dorothy Dent",
                 },
@@ -3674,7 +3674,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4444,
+                episodeId: 5771,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -3758,7 +3758,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4445,
+                episodeId: 5772,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -3856,7 +3856,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4446,
+                episodeId: 5773,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -3954,7 +3954,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4447,
+                episodeId: 5774,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -4052,7 +4052,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4448,
+                episodeId: 5775,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -4150,7 +4150,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4449,
+                episodeId: 5776,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -4243,7 +4243,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black/white",
-                episodeId: 4450,
+                episodeId: 5777,
                 artist: {
                   name: "Diane Andre",
                 },
@@ -4341,7 +4341,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4451,
+                episodeId: 5778,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -4440,7 +4440,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "dry",
-                episodeId: 4452,
+                episodeId: 5779,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -4526,7 +4526,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4453,
+                episodeId: 5780,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -4625,7 +4625,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4454,
+                episodeId: 5781,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -4719,7 +4719,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4455,
+                episodeId: 5782,
                 artist: {
                   name: "Dana Jester",
                 },
@@ -4792,7 +4792,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4456,
+                episodeId: 5783,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -4875,7 +4875,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4457,
+                episodeId: 5784,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -4973,7 +4973,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4458,
+                episodeId: 5785,
                 artist: {
                   name: "Audrey Golden",
                 },
@@ -5051,7 +5051,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4459,
+                episodeId: 5786,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -5139,7 +5139,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4460,
+                episodeId: 5787,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -5232,7 +5232,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4461,
+                episodeId: 5788,
                 artist: {
                   name: "Joyce Ortner",
                 },
@@ -5296,7 +5296,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4462,
+                episodeId: 5789,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -5375,7 +5375,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4463,
+                episodeId: 5790,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -5464,7 +5464,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4464,
+                episodeId: 5791,
                 artist: {
                   name: "Ferne Sirois",
                 },
@@ -5530,7 +5530,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4465,
+                episodeId: 5792,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -5628,7 +5628,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4466,
+                episodeId: 5793,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -5726,7 +5726,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4467,
+                episodeId: 5794,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -5820,7 +5820,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4468,
+                episodeId: 5795,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -5913,7 +5913,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4469,
+                episodeId: 5796,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6011,7 +6011,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4470,
+                episodeId: 5797,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6110,7 +6110,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4471,
+                episodeId: 5798,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6190,7 +6190,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4472,
+                episodeId: 5799,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6275,7 +6275,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4473,
+                episodeId: 5800,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6354,7 +6354,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4474,
+                episodeId: 5801,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6457,7 +6457,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4475,
+                episodeId: 5802,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6537,7 +6537,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4476,
+                episodeId: 5803,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6618,7 +6618,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4477,
+                episodeId: 5804,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6711,7 +6711,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4478,
+                episodeId: 5805,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6814,7 +6814,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4479,
+                episodeId: 5806,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -6897,7 +6897,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4480,
+                episodeId: 5807,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7009,7 +7009,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "acrylic yellow",
-                episodeId: 4481,
+                episodeId: 5808,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7088,7 +7088,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4482,
+                episodeId: 5809,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7190,7 +7190,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4484,
+                episodeId: 5811,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7302,7 +7302,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4485,
+                episodeId: 5812,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7409,7 +7409,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4486,
+                episodeId: 5813,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7516,7 +7516,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4487,
+                episodeId: 5814,
                 artist: {
                   name: "Steve Ross",
                 },
@@ -7604,7 +7604,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4488,
+                episodeId: 5815,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7688,7 +7688,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4489,
+                episodeId: 5816,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7747,7 +7747,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4490,
+                episodeId: 5817,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7817,7 +7817,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4491,
+                episodeId: 5818,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -7929,7 +7929,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4492,
+                episodeId: 5819,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8028,7 +8028,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "oval contact paper",
-                episodeId: 4493,
+                episodeId: 5820,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8131,7 +8131,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4494,
+                episodeId: 5821,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8233,7 +8233,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4495,
+                episodeId: 5822,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8341,7 +8341,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4496,
+                episodeId: 5823,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8449,7 +8449,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4497,
+                episodeId: 5824,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8548,7 +8548,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4498,
+                episodeId: 5825,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8646,7 +8646,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4499,
+                episodeId: 5826,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8754,7 +8754,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "contact paper",
-                episodeId: 4500,
+                episodeId: 5827,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8862,7 +8862,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4501,
+                episodeId: 5828,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -8946,7 +8946,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4502,
+                episodeId: 5829,
                 artist: {
                   name: "Steve Ross",
                 },
@@ -9040,7 +9040,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4503,
+                episodeId: 5830,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9138,7 +9138,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4504,
+                episodeId: 5831,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9222,7 +9222,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4505,
+                episodeId: 5832,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9307,7 +9307,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4506,
+                episodeId: 5833,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9410,7 +9410,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4507,
+                episodeId: 5834,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9508,7 +9508,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4508,
+                episodeId: 5835,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9602,7 +9602,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4509,
+                episodeId: 5836,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9681,7 +9681,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "half black",
-                episodeId: 4510,
+                episodeId: 5837,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9779,7 +9779,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4511,
+                episodeId: 5838,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9876,7 +9876,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4512,
+                episodeId: 5839,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -9980,7 +9980,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4513,
+                episodeId: 5840,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -10075,7 +10075,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4514,
+                episodeId: 5841,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -10177,7 +10177,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4515,
+                episodeId: 5842,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -10275,7 +10275,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4516,
+                episodeId: 5843,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -10393,7 +10393,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black/white",
-                episodeId: 4517,
+                episodeId: 5844,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -10493,7 +10493,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4518,
+                episodeId: 5845,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -10606,7 +10606,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4519,
+                episodeId: 5846,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -10708,7 +10708,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4520,
+                episodeId: 5847,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -10821,7 +10821,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4521,
+                episodeId: 5848,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -10922,7 +10922,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black/white",
-                episodeId: 4522,
+                episodeId: 5849,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11024,7 +11024,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4523,
+                episodeId: 5850,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11132,7 +11132,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4524,
+                episodeId: 5851,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11211,7 +11211,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4525,
+                episodeId: 5852,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11309,7 +11309,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4526,
+                episodeId: 5853,
                 artist: {
                   name: "Steve Ross",
                 },
@@ -11387,7 +11387,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4527,
+                episodeId: 5854,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11484,7 +11484,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "masking tape",
-                episodeId: 4528,
+                episodeId: 5855,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11582,7 +11582,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4529,
+                episodeId: 5856,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11670,7 +11670,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4530,
+                episodeId: 5857,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11767,7 +11767,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4531,
+                episodeId: 5858,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11871,7 +11871,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4532,
+                episodeId: 5859,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -11955,7 +11955,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4533,
+                episodeId: 5860,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12052,7 +12052,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4534,
+                episodeId: 5861,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12159,7 +12159,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4535,
+                episodeId: 5862,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12253,7 +12253,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "oval contact paper",
-                episodeId: 4536,
+                episodeId: 5863,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12340,7 +12340,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4537,
+                episodeId: 5864,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12434,7 +12434,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4538,
+                episodeId: 5865,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12537,7 +12537,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4539,
+                episodeId: 5866,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12620,7 +12620,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4540,
+                episodeId: 5867,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12708,7 +12708,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4541,
+                episodeId: 5868,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12791,7 +12791,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4542,
+                episodeId: 5869,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12883,7 +12883,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4543,
+                episodeId: 5870,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -12990,7 +12990,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4544,
+                episodeId: 5871,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -13078,7 +13078,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4545,
+                episodeId: 5872,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -13178,7 +13178,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4546,
+                episodeId: 5873,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -13290,7 +13290,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4547,
+                episodeId: 5874,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -13404,7 +13404,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4548,
+                episodeId: 5875,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -13483,7 +13483,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4549,
+                episodeId: 5876,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -13591,7 +13591,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4550,
+                episodeId: 5877,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -13699,7 +13699,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black taped border",
-                episodeId: 4551,
+                episodeId: 5878,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -13797,7 +13797,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4552,
+                episodeId: 5879,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -13900,7 +13900,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4553,
+                episodeId: 5880,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14022,7 +14022,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4554,
+                episodeId: 5881,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14134,7 +14134,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "oval contact paper",
-                episodeId: 4555,
+                episodeId: 5882,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14232,7 +14232,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4556,
+                episodeId: 5883,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14315,7 +14315,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4557,
+                episodeId: 5884,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14419,7 +14419,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4558,
+                episodeId: 5885,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14488,7 +14488,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "oval contact paper",
-                episodeId: 4559,
+                episodeId: 5886,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14601,7 +14601,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4560,
+                episodeId: 5887,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14695,7 +14695,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4561,
+                episodeId: 5888,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14802,7 +14802,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "3/4 black",
-                episodeId: 4562,
+                episodeId: 5889,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14891,7 +14891,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4563,
+                episodeId: 5890,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -14994,7 +14994,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4564,
+                episodeId: 5891,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15083,7 +15083,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4565,
+                episodeId: 5892,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15162,7 +15162,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4566,
+                episodeId: 5893,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15266,7 +15266,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4567,
+                episodeId: 5894,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15368,7 +15368,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black oval",
-                episodeId: 4568,
+                episodeId: 5895,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15450,7 +15450,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4569,
+                episodeId: 5896,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15557,7 +15557,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4570,
+                episodeId: 5897,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15665,7 +15665,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4571,
+                episodeId: 5898,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15763,7 +15763,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black oval",
-                episodeId: 4572,
+                episodeId: 5899,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15860,7 +15860,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4573,
+                episodeId: 5900,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -15944,7 +15944,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "oval top contact paper",
-                episodeId: 4574,
+                episodeId: 5901,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -16042,7 +16042,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4575,
+                episodeId: 5902,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -16149,7 +16149,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "liquid gray",
-                episodeId: 4576,
+                episodeId: 5903,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -16256,7 +16256,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4577,
+                episodeId: 5904,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -16350,7 +16350,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "oval contact paper",
-                episodeId: 4578,
+                episodeId: 5905,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -16458,7 +16458,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4579,
+                episodeId: 5906,
                 artist: {
                   name: "Steve Ross",
                 },
@@ -16548,7 +16548,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "partial black",
-                episodeId: 4580,
+                episodeId: 5907,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -16650,7 +16650,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black oval",
-                episodeId: 4581,
+                episodeId: 5908,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -16744,7 +16744,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4582,
+                episodeId: 5909,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -16847,7 +16847,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4583,
+                episodeId: 5910,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -16949,7 +16949,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4584,
+                episodeId: 5911,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17052,7 +17052,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4585,
+                episodeId: 5912,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17146,7 +17146,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4586,
+                episodeId: 5913,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17254,7 +17254,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black oval",
-                episodeId: 4587,
+                episodeId: 5914,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17346,7 +17346,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4588,
+                episodeId: 5915,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17449,7 +17449,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4589,
+                episodeId: 5916,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17546,7 +17546,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4590,
+                episodeId: 5917,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17649,7 +17649,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4591,
+                episodeId: 5918,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17723,7 +17723,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black oval",
-                episodeId: 4592,
+                episodeId: 5919,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17822,7 +17822,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4593,
+                episodeId: 5920,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -17920,7 +17920,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "black gesso border",
-                episodeId: 4594,
+                episodeId: 5921,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18018,7 +18018,7 @@ export function listSeries() {
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4595,
+                episodeId: 5922,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18123,7 +18123,7 @@ Colors used: Titanium White, Phthalo Green, Phthalo Blue, Prussian Blue, Midnigh
                 height: 18,
                 width: 24,
                 canvas: "split canvas",
-                episodeId: 4596,
+                episodeId: 5923,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18233,7 +18233,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black gesso",
-                episodeId: 4597,
+                episodeId: 5924,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18342,7 +18342,7 @@ Colors used: Titanium White, Phthalo Blue, Prussian Blue, Midnight Black, Dark S
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4598,
+                episodeId: 5925,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18442,7 +18442,7 @@ Colors used: Titanium White, Phthalo Blue, Prussian Blue, Midnight Black, Dark S
                 height: 18,
                 width: 24,
                 canvas: "wood",
-                episodeId: 4599,
+                episodeId: 5926,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18548,7 +18548,7 @@ Colors used: Titanium White, Phthalo Green, Phthalo Blue, Prussian Blue, Midnigh
                 height: 18,
                 width: 24,
                 canvas: "double oval",
-                episodeId: 4600,
+                episodeId: 5927,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18652,7 +18652,7 @@ Colors used: Titanium White, Phthalo Green, Phthalo Blue, Prussian Blue, Midnigh
                 height: 18,
                 width: 24,
                 canvas: "shellacked masonite",
-                episodeId: 4601,
+                episodeId: 5928,
                 artist: {
                   name: "John Thamm",
                 },
@@ -18700,7 +18700,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4602,
+                episodeId: 5929,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18795,7 +18795,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4603,
+                episodeId: 5930,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18886,7 +18886,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4604,
+                episodeId: 5931,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -18980,7 +18980,7 @@ Colors used: Titanium White, Phthalo Blue, Alizarin Crimson, Bright Red, Van Dyk
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4605,
+                episodeId: 5932,
                 artist: {
                   name: "Steve Ross",
                 },
@@ -19075,7 +19075,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4606,
+                episodeId: 5933,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -19170,7 +19170,7 @@ Colors used: Titanium White, Prussian Blue, Midnight Black, Dark Sienna, Van Dyk
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4607,
+                episodeId: 5934,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -19275,7 +19275,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black gesso oval",
-                episodeId: 4608,
+                episodeId: 5935,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -19380,7 +19380,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4609,
+                episodeId: 5936,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -19470,7 +19470,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4610,
+                episodeId: 5937,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -19562,7 +19562,7 @@ Colors used: Titanium White, Phthalo Blue, Prussian Blue, Midnight Black, Dark S
                 height: 18,
                 width: 24,
                 canvas: "partial black gesso",
-                episodeId: 4611,
+                episodeId: 5938,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -19663,7 +19663,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "half black",
-                episodeId: 4612,
+                episodeId: 5939,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -19758,7 +19758,7 @@ Colors used: Titanium White, Phthalo Blue, Prussian Blue, Midnight Black, Dark S
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4613,
+                episodeId: 5940,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -19877,7 +19877,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4614,
+                episodeId: 5941,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -19979,7 +19979,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "gesso trees",
-                episodeId: 4615,
+                episodeId: 5942,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -20092,7 +20092,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "new york theme contact paper",
-                episodeId: 4616,
+                episodeId: 5943,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -20209,7 +20209,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4617,
+                episodeId: 5944,
                 artist: {
                   name: "Steve Ross",
                 },
@@ -20302,7 +20302,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4618,
+                episodeId: 5945,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -20409,7 +20409,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "partial black",
-                episodeId: 4619,
+                episodeId: 5946,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -20506,7 +20506,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "partial black",
-                episodeId: 4620,
+                episodeId: 5947,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -20598,7 +20598,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4621,
+                episodeId: 5948,
                 artist: {
                   name: "Dana Jester",
                 },
@@ -20682,7 +20682,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "half oval",
-                episodeId: 4622,
+                episodeId: 5949,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -20772,7 +20772,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4623,
+                episodeId: 5950,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -20871,7 +20871,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4624,
+                episodeId: 5951,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -20950,7 +20950,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black oval",
-                episodeId: 4625,
+                episodeId: 5952,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21048,7 +21048,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4626,
+                episodeId: 5953,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21147,7 +21147,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4627,
+                episodeId: 5954,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21237,7 +21237,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black wave",
-                episodeId: 4628,
+                episodeId: 5955,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21331,7 +21331,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "half circle",
-                episodeId: 4629,
+                episodeId: 5956,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21405,7 +21405,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "1/5 black",
-                episodeId: 4630,
+                episodeId: 5957,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21489,7 +21489,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "two ovals",
-                episodeId: 4631,
+                episodeId: 5958,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21596,7 +21596,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4632,
+                episodeId: 5959,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21685,7 +21685,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4633,
+                episodeId: 5960,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21778,7 +21778,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4634,
+                episodeId: 5961,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21891,7 +21891,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4635,
+                episodeId: 5962,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -21980,7 +21980,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "half black",
-                episodeId: 4636,
+                episodeId: 5963,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22083,7 +22083,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black oval",
-                episodeId: 4637,
+                episodeId: 5964,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22182,7 +22182,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4638,
+                episodeId: 5965,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22252,7 +22252,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4639,
+                episodeId: 5966,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22350,7 +22350,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4640,
+                episodeId: 5967,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22447,7 +22447,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4641,
+                episodeId: 5968,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22535,7 +22535,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4642,
+                episodeId: 5969,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22661,7 +22661,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4643,
+                episodeId: 5970,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22758,7 +22758,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4644,
+                episodeId: 5971,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22847,7 +22847,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4645,
+                episodeId: 5972,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -22948,7 +22948,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4646,
+                episodeId: 5973,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23036,7 +23036,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4647,
+                episodeId: 5974,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23150,7 +23150,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4648,
+                episodeId: 5975,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23254,7 +23254,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4649,
+                episodeId: 5976,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23367,7 +23367,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4650,
+                episodeId: 5977,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23456,7 +23456,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4651,
+                episodeId: 5978,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23554,7 +23554,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "spray paint border",
-                episodeId: 4652,
+                episodeId: 5979,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23638,7 +23638,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "partial black",
-                episodeId: 4653,
+                episodeId: 5980,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23728,7 +23728,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4654,
+                episodeId: 5981,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23817,7 +23817,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "partial black",
-                episodeId: 4655,
+                episodeId: 5982,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23911,7 +23911,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4656,
+                episodeId: 5983,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -23985,7 +23985,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4657,
+                episodeId: 5984,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -24089,7 +24089,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4658,
+                episodeId: 5985,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -24198,7 +24198,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4659,
+                episodeId: 5986,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -24300,7 +24300,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "overlapping contact paper",
-                episodeId: 4660,
+                episodeId: 5987,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -24408,7 +24408,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "half black",
-                episodeId: 4661,
+                episodeId: 5988,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -24521,7 +24521,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4662,
+                episodeId: 5989,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -24610,7 +24610,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "half black",
-                episodeId: 4663,
+                episodeId: 5990,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -24723,7 +24723,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black tree outline",
-                episodeId: 4664,
+                episodeId: 5991,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -24827,7 +24827,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "partial black oval",
-                episodeId: 4665,
+                episodeId: 5992,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -24925,7 +24925,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4666,
+                episodeId: 5993,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25013,7 +25013,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "partial black sponge",
-                episodeId: 4667,
+                episodeId: 5994,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25131,7 +25131,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "half black",
-                episodeId: 4668,
+                episodeId: 5995,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25243,7 +25243,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "partial black",
-                episodeId: 4669,
+                episodeId: 5996,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25347,7 +25347,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4670,
+                episodeId: 5997,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25410,7 +25410,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4671,
+                episodeId: 5998,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25502,7 +25502,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4672,
+                episodeId: 5999,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25606,7 +25606,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "florida contact paper",
-                episodeId: 4673,
+                episodeId: 6000,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25710,7 +25710,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4674,
+                episodeId: 6001,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25812,7 +25812,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4675,
+                episodeId: 6002,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -25921,7 +25921,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4676,
+                episodeId: 6003,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26039,7 +26039,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4677,
+                episodeId: 6004,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26151,7 +26151,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4678,
+                episodeId: 6005,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26239,7 +26239,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4679,
+                episodeId: 6006,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26341,7 +26341,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "masking tape squares",
-                episodeId: 4680,
+                episodeId: 6007,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26444,7 +26444,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "half black",
-                episodeId: 4681,
+                episodeId: 6008,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26548,7 +26548,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4682,
+                episodeId: 6009,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26665,7 +26665,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4683,
+                episodeId: 6010,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26748,7 +26748,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4684,
+                episodeId: 6011,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26859,7 +26859,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4685,
+                episodeId: 6012,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -26962,7 +26962,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4686,
+                episodeId: 6013,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27061,7 +27061,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4687,
+                episodeId: 6014,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27150,7 +27150,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black sponge",
-                episodeId: 4688,
+                episodeId: 6015,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27239,7 +27239,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4689,
+                episodeId: 6016,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27338,7 +27338,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4690,
+                episodeId: 6017,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27444,7 +27444,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4691,
+                episodeId: 6018,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27556,7 +27556,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "paper towel black gesso",
-                episodeId: 4692,
+                episodeId: 6019,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27665,7 +27665,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4693,
+                episodeId: 6020,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27762,7 +27762,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4694,
+                episodeId: 6021,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27870,7 +27870,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4695,
+                episodeId: 6022,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -27987,7 +27987,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black gesso trees",
-                episodeId: 4696,
+                episodeId: 6023,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28100,7 +28100,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4697,
+                episodeId: 6024,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28197,7 +28197,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4698,
+                episodeId: 6025,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28293,7 +28293,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4699,
+                episodeId: 6026,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28377,7 +28377,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4700,
+                episodeId: 6027,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28490,7 +28490,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4701,
+                episodeId: 6028,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28584,7 +28584,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black/blue acrylic",
-                episodeId: 4702,
+                episodeId: 6029,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28667,7 +28667,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black oval",
-                episodeId: 4703,
+                episodeId: 6030,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28761,7 +28761,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4704,
+                episodeId: 6031,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28873,7 +28873,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4705,
+                episodeId: 6032,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -28968,7 +28968,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black trees",
-                episodeId: 4706,
+                episodeId: 6033,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29062,7 +29062,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4707,
+                episodeId: 6034,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29166,7 +29166,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4708,
+                episodeId: 6035,
                 artist: {
                   name: "Steve Ross",
                 },
@@ -29244,7 +29244,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4709,
+                episodeId: 6036,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29340,7 +29340,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4712,
+                episodeId: 6039,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29405,7 +29405,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4710,
+                episodeId: 6037,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29508,7 +29508,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black",
-                episodeId: 4711,
+                episodeId: 6038,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29587,7 +29587,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4714,
+                episodeId: 6041,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29696,7 +29696,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black sponge oval",
-                episodeId: 4715,
+                episodeId: 6042,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29774,7 +29774,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "half black",
-                episodeId: 4716,
+                episodeId: 6043,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29854,7 +29854,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "sponged black and acrylic",
-                episodeId: 4717,
+                episodeId: 6044,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -29975,7 +29975,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4718,
+                episodeId: 6045,
                 artist: {
                   name: "Steve Ross",
                 },
@@ -30064,7 +30064,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4719,
+                episodeId: 6046,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -30158,7 +30158,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "yellow acrylic + sponged black",
-                episodeId: 4720,
+                episodeId: 6047,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -30257,7 +30257,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4721,
+                episodeId: 6048,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -30360,7 +30360,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "partial black",
-                episodeId: 4722,
+                episodeId: 6049,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -30469,7 +30469,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black oval",
-                episodeId: 4723,
+                episodeId: 6050,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -30538,7 +30538,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "black gesso border",
-                episodeId: 4724,
+                episodeId: 6051,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -30626,7 +30626,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "oval",
-                episodeId: 4725,
+                episodeId: 6052,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -30720,7 +30720,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4726,
+                episodeId: 6053,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -30795,6 +30795,1253 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
           ],
         },
         {
+          index: 26,
+          episodes: [
+            {
+              index: 1,
+              premier_date: "1992-12-01",
+              duration: "00:25:07",
+              summary: `Take a walk with Bob Ross and experience the quiet motionless beauty of a glassy river as the morning fog hangs onto the distant shore.`,
+              url: "https://www.youtube.com/watch?v=5rfGa1_iJpw",
+              seasonId: 26,
+              painting: {
+                title: "In the Stillness of Morning",
+                height: 18,
+                width: 24,
+                canvas: "white",
+                episodeId: 6054,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "script liner",
+                    url: "https://www.bobross.com/2-script-liner-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "5f2e1f",
+                    name: "dark sienna",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-dark-sienna/",
+                  },
+                  {
+                    hex: "ffb800",
+                    name: "indian yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-indian-yellow/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "0a3410",
+                    name: "sap green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-sap-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                  {
+                    hex: "c79b00",
+                    name: "yellow ochre",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-yellow-ochre/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 2,
+              premier_date: "1992-12-08",
+              duration: "00:25:28",
+              summary: `Hike into the expanse of wilderness with Bob Ross and happen upon a quaint little home sitting among softly blowing meadow grasses.`,
+              url: "https://www.youtube.com/watch?v=tWoInh2USOs",
+              seasonId: 26,
+              painting: {
+                title: "Delightful Meadow Home",
+                height: 18,
+                width: 24,
+                canvas: "white",
+                episodeId: 6055,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "1 inch brush",
+                    url: "https://www.bobross.com/1-inch-landscape-brush/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "#5 knife",
+                    url: "https://www.bobross.com/painting-knife-5-small/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                  {
+                    name: "script liner",
+                    url: "https://www.bobross.com/2-script-liner-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "db0000",
+                    name: "bright red",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-bright-red/",
+                  },
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "ffb800",
+                    name: "indian yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-indian-yellow/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "0a3410",
+                    name: "sap green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-sap-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "c79b00",
+                    name: "yellow ochre",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-yellow-ochre/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 3,
+              premier_date: "1992-12-15",
+              duration: "00:25:28",
+              summary: `Follow Bob Ross into a lovely mountain setting with magnificent evergreens, where the first touches of snow appear in the valley.`,
+              url: "https://www.youtube.com/watch?v=raAkJKeo0Sk",
+              seasonId: 26,
+              painting: {
+                title: "First Snow",
+                height: 18,
+                width: 24,
+                canvas: "white",
+                episodeId: 6056,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "db0000",
+                    name: "bright red",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-bright-red/",
+                  },
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "5f2e1f",
+                    name: "dark sienna",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-dark-sienna/",
+                  },
+                  {
+                    hex: "ffb800",
+                    name: "indian yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-indian-yellow/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "0a3410",
+                    name: "sap green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-sap-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                  {
+                    hex: "c79b00",
+                    name: "yellow ochre",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-yellow-ochre/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 4,
+              premier_date: "1992-12-22",
+              duration: "00:25:35",
+              summary: `Discover a beautiful quiet lake hidden deep in the wilderness - and just beyond a glorious snow-covered mountain! - from the magical brushes of Bob Ross.`,
+              url: "https://www.youtube.com/watch?v=KvJmSrErm20",
+              seasonId: 26,
+              painting: {
+                title: "Lake in the Valley",
+                height: 18,
+                width: 24,
+                canvas: "sponged black",
+                episodeId: 6057,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "db0000",
+                    name: "bright red",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-bright-red/",
+                  },
+                  {
+                    hex: "5f2e1f",
+                    name: "dark sienna",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-dark-sienna/",
+                  },
+                  {
+                    hex: "ffb800",
+                    name: "indian yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-indian-yellow/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid clear",
+                    url: "https://www.bobross.com/liquid-clear-250ml/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "102e3c",
+                    name: "phthalo green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-green/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "0a3410",
+                    name: "sap green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-sap-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                  {
+                    hex: "c79b00",
+                    name: "yellow ochre",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-yellow-ochre/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 5,
+              premier_date: "1992-12-29",
+              duration: "00:25:33",
+              summary: `Stroll along a wonderful hustling, bubbling river with Bob Ross and enjoy the emergence of springtime blossoms on spectacular trees.`,
+              url: "https://www.youtube.com/watch?v=JMPwj3u4ZTA",
+              seasonId: 26,
+              painting: {
+                title: "A Trace of Spring",
+                height: 18,
+                width: 24,
+                canvas: "white",
+                episodeId: 6058,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "1 inch brush",
+                    url: "https://www.bobross.com/1-inch-landscape-brush/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "#5 knife",
+                    url: "https://www.bobross.com/painting-knife-5-small/",
+                  },
+                  {
+                    name: "filbert brush",
+                    url: "https://www.bobross.com/6-bristle-filbert-brush/",
+                  },
+                  {
+                    name: "script liner",
+                    url: "https://www.bobross.com/2-script-liner-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "db0000",
+                    name: "bright red",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-bright-red/",
+                  },
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "5f2e1f",
+                    name: "dark sienna",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-dark-sienna/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "102e3c",
+                    name: "phthalo green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-green/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "0a3410",
+                    name: "sap green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-sap-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                  {
+                    hex: "c79b00",
+                    name: "yellow ochre",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-yellow-ochre/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 6,
+              premier_date: "1993-01-05",
+              duration: "00:25:09",
+              summary: `Travel to the coldest place imaginable with Bob Ross and find a lonely cabin comfortably nestled on the edge of a glassy-smooth frozen pond.`,
+              url: "https://www.youtube.com/watch?v=9BHWlbjd95c",
+              seasonId: 26,
+              painting: {
+                title: "An Arctic Winter Day",
+                height: 18,
+                width: 24,
+                canvas: "white",
+                episodeId: 6059,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "1 inch brush",
+                    url: "https://www.bobross.com/1-inch-landscape-brush/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "blender brush",
+                    url: "https://www.bobross.com/2-inch-soft-blender-brush/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "5f2e1f",
+                    name: "dark sienna",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-dark-sienna/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 7,
+              premier_date: "1993-01-12",
+              duration: "00:25:24",
+              summary: `An incredibly unique Bob Ross painting -- delight in the effects of white and black gesso, discover a birch tree forest perfectly mirrored in the cold stillness of winter.`,
+              url: "https://www.youtube.com/watch?v=wKeemvioVrM",
+              seasonId: 26,
+              painting: {
+                title: "Snow Birch",
+                height: 18,
+                width: 24,
+                canvas: "black and grey foam brush tree",
+                episodeId: 6060,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                  {
+                    name: "script liner",
+                    url: "https://www.bobross.com/2-script-liner-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "ffb800",
+                    name: "indian yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-indian-yellow/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid clear",
+                    url: "https://www.bobross.com/liquid-clear-250ml/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 8,
+              premier_date: "1993-01-19",
+              duration: "00:25:15",
+              summary: `Follow along with the brushes of Bob Ross and step into a beautiful mountain oval - experience the first signs of autumn.`,
+              url: "https://www.youtube.com/watch?v=SLQXlFLoqQc",
+              seasonId: 26,
+              painting: {
+                title: "Early Autumn",
+                height: 18,
+                width: 24,
+                canvas: "oval",
+                episodeId: 6061,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "#5 knife",
+                    url: "https://www.bobross.com/painting-knife-5-small/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                  {
+                    name: "half size round",
+                    url: "https://www.bobross.com/halfsize-round-brush/",
+                  },
+                  {
+                    name: "script liner",
+                    url: "https://www.bobross.com/2-script-liner-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "db0000",
+                    name: "bright red",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-bright-red/",
+                  },
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "5f2e1f",
+                    name: "dark sienna",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-dark-sienna/",
+                  },
+                  {
+                    hex: "ffb800",
+                    name: "indian yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-indian-yellow/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "0a3410",
+                    name: "sap green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-sap-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                  {
+                    hex: "c79b00",
+                    name: "yellow ochre",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-yellow-ochre/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 9,
+              premier_date: "1993-01-26",
+              duration: "00:25:25",
+              summary: `Bob Ross takes you to a lovely spot deep in the woods where the seclusion, silence and beauty offer serenity to the soul.`,
+              url: "https://www.youtube.com/watch?v=lSeRrm5ZK9c",
+              seasonId: 26,
+              painting: {
+                title: "Tranquil Wooded Stream",
+                height: 18,
+                width: 24,
+                canvas: "black sponged gesso",
+                episodeId: 6062,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "1 inch brush",
+                    url: "https://www.bobross.com/1-inch-landscape-brush/",
+                  },
+                  {
+                    name: "1 inch oval",
+                    url: "https://www.bobross.com/1-inch-oval-brush/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "#5 knife",
+                    url: "https://www.bobross.com/painting-knife-5-small/",
+                  },
+                  {
+                    name: "filbert brush",
+                    url: "https://www.bobross.com/6-bristle-filbert-brush/",
+                  },
+                  {
+                    name: "script liner",
+                    url: "https://www.bobross.com/2-script-liner-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "db0000",
+                    name: "bright red",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-bright-red/",
+                  },
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "5f2e1f",
+                    name: "dark sienna",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-dark-sienna/",
+                  },
+                  {
+                    hex: "ffb800",
+                    name: "indian yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-indian-yellow/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid clear",
+                    url: "https://www.bobross.com/liquid-clear-250ml/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "0a3410",
+                    name: "sap green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-sap-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                  {
+                    hex: "c79b00",
+                    name: "yellow ochre",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-yellow-ochre/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 10,
+              premier_date: "1993-02-02",
+              duration: "00:25:22",
+              summary: `Take a nice walk with Bob Ross along a peacefully flowing river and enjoy a view of gorgeous amethyst mountains and stately trees in the distance.`,
+              url: "https://www.youtube.com/watch?v=lSeRrm5ZK9c",
+              seasonId: 26,
+              painting: {
+                title: "Purple Mountain Range",
+                height: 18,
+                width: 24,
+                canvas: "white",
+                episodeId: 6063,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "db0000",
+                    name: "bright red",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-bright-red/",
+                  },
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "5f2e1f",
+                    name: "dark sienna",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-dark-sienna/",
+                  },
+                  {
+                    hex: "ffb800",
+                    name: "indian yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-indian-yellow/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "102e3c",
+                    name: "phthalo green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-green/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                  {
+                    hex: "c79b00",
+                    name: "yellow ochre",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-yellow-ochre/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 11,
+              premier_date: "1993-02-09",
+              duration: "00:25:20",
+              summary: `Join artist Bob Ross under turbulent skies as the windy waves rush to crash upon the rocks - all within a pleasing oval shape.`,
+              url: "https://www.youtube.com/watch?v=EHD9u-lo2wc",
+              seasonId: 26,
+              painting: {
+                title: "Storm's A Comin",
+                height: 18,
+                width: 24,
+                canvas: "black oval",
+                episodeId: 6064,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "blender brush",
+                    url: "https://www.bobross.com/2-inch-soft-blender-brush/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                  {
+                    name: "filbert brush",
+                    url: "https://www.bobross.com/6-bristle-filbert-brush/",
+                  },
+                  {
+                    name: "script liner",
+                    url: "https://www.bobross.com/2-script-liner-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "db0000",
+                    name: "bright red",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-bright-red/",
+                  },
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "5f2e1f",
+                    name: "dark sienna",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-dark-sienna/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid clear",
+                    url: "https://www.bobross.com/liquid-clear-250ml/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "102e3c",
+                    name: "phthalo green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 12,
+              premier_date: "1993-02-16",
+              duration: "00:25:29",
+              summary: `Find yourself in a gorgeous late-afternoon mountain masterpiece by Bob Ross -- breathtaking purples skies, defined evergreens and smooth lake.`,
+              url: "https://www.youtube.com/watch?v=gMEZp47VKC0",
+              seasonId: 26,
+              painting: {
+                title: "Sunset Aglow",
+                height: 18,
+                width: 24,
+                canvas: "white",
+                episodeId: 6065,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "1 inch brush",
+                    url: "https://www.bobross.com/1-inch-landscape-brush/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "blender brush",
+                    url: "https://www.bobross.com/2-inch-soft-blender-brush/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "4e1500",
+                    name: "alizarin crimson",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-alizarin-crimson/",
+                  },
+                  {
+                    hex: "db0000",
+                    name: "bright red",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-bright-red/",
+                  },
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "ffb800",
+                    name: "indian yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-indian-yellow/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid white",
+                    url: "https://www.bobross.com/liquid-white-500ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "0c0040",
+                    name: "phthalo blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-phthalo-blue/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "0a3410",
+                    name: "sap green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-sap-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                  {
+                    hex: "221b15",
+                    name: "van dyke brown",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-van-dyke-brown/",
+                  },
+                  {
+                    hex: "c79b00",
+                    name: "yellow ochre",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-yellow-ochre/",
+                  },
+                ],
+              },
+            },
+            {
+              index: 13,
+              premier_date: "1993-02-23",
+              duration: "00:25:18",
+              summary: `Sneak away into the cold shadows with Bob Ross and enjoy the beauty of a winter night at the foot of a large fierce waterfall.`,
+              url: "https://www.youtube.com/watch?v=RulXVcpgpqw",
+              seasonId: 26,
+              painting: {
+                title: "Evening at the Falls",
+                height: 18,
+                width: 24,
+                canvas: "black",
+                episodeId: 6066,
+                artist: {
+                  name: "Bob Ross",
+                },
+
+                tools: [
+                  {
+                    name: "#10 knife",
+                    url: "https://www.bobross.com/painting-knife-10-standard/",
+                  },
+                  {
+                    name: "2 inch brush",
+                    url: "https://www.bobross.com/2-inch-background-brush/",
+                  },
+                  {
+                    name: "#5 knife",
+                    url: "https://www.bobross.com/painting-knife-5-small/",
+                  },
+                  {
+                    name: "blender brush",
+                    url: "https://www.bobross.com/2-inch-soft-blender-brush/",
+                  },
+                  {
+                    name: "fan brush",
+                    url: "https://www.bobross.com/6-fan-blender-brush/",
+                  },
+                  {
+                    name: "filbert brush",
+                    url: "https://www.bobross.com/6-bristle-filbert-brush/",
+                  },
+                ],
+                colors: [
+                  {
+                    hex: "ffec00",
+                    name: "cadmium yellow",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-cadmium-yellow-hue/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "liquid clear",
+                    url: "https://www.bobross.com/liquid-clear-250ml/",
+                  },
+                  {
+                    hex: "000000",
+                    name: "midnight black",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-midnight-black/",
+                  },
+                  {
+                    hex: "021e44",
+                    name: "prussian blue",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-prussian-blue/",
+                  },
+                  {
+                    hex: "0a3410",
+                    name: "sap green",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-sap-green/",
+                  },
+                  {
+                    hex: "ffffff",
+                    name: "titanium white",
+                    url: "https://www.bobross.com/bob-ross-lsc-oil-200ml-titanium-white/",
+                  },
+                ],
+              },
+            },
+          ],
+        },
+        {
           index: 30,
           episodes: [
             {
@@ -30809,7 +32056,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4713,
+                episodeId: 6040,
                 artist: {
                   name: "Bob Ross",
                 },
@@ -30933,7 +32180,7 @@ Colors used: Titanium White, Phthalo Blue, Midnight Black, Dark Sienna, Van Dyke
                 height: 18,
                 width: 24,
                 canvas: "white",
-                episodeId: 4727,
+                episodeId: 6067,
                 artist: {
                   name: "Kevin Hill",
                 },
