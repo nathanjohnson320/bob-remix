@@ -55,8 +55,8 @@ const paintingSrc = (series: Series, season: Season, episode: Episode) => {
   return `/img/series/${series.index}/season/${season.index}/${episode.index}.jpg`;
 };
 
-const episodeLabel = (episode: Episode) => {
-  return `S${episode.index.toString().padStart(2, "0")}E${episode.index
+const episodeLabel = (season: Season, episode: Episode) => {
+  return `S${season.index.toString().padStart(2, "0")}E${episode.index
     .toString()
     .padStart(2, "0")}`;
 };
@@ -136,7 +136,7 @@ export default function Season() {
               <div className="flex-1">
                 <div className="text-sm font-medium text-indigo-600">
                   <p className="hover:underline">
-                    {`${episodeLabel(episode)} - ${
+                    {`${episodeLabel(selectedSeason, episode)} - ${
                       episode.paintings[0].canvas
                     }`}
                   </p>
