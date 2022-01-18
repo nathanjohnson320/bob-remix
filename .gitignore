@@ -8,3 +8,4 @@ node_modules
 erl_crash.dump
 .mf
 app/tailwind.css
+.env

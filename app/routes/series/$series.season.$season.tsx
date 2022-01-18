@@ -8,11 +8,12 @@ import {
   redirect,
   useSubmit,
 } from "remix";
-import { getSeries, getSeason, listSeasons, listSeries } from "~/data";
-import { Episode } from "~/types";
+import { Series, listSeries, getSeries } from "~/series";
+import { Season, listSeasons, getSeason } from "~/season";
+import { Episode } from "~/episode";
 
-export const loader: LoaderFunction = ({ params }) => {
-  const series = listSeries();
+export const loader: LoaderFunction = async ({ params }) => {
+  const series = await listSeries();
   const selectedSeries = series.find((s) => s.index === Number(params.series));
 
   if (!selectedSeries) {
@@ -21,7 +22,7 @@ export const loader: LoaderFunction = ({ params }) => {
     });
   }
 
-  const seasons = listSeasons(selectedSeries.index);
+  const seasons = await listSeasons(selectedSeries.index);
   const selectedSeason = seasons.find((s) => s.index === Number(params.season));
 
   if (!selectedSeason) {
@@ -41,18 +42,21 @@ export const loader: LoaderFunction = ({ params }) => {
 export const action: ActionFunction = async ({ request }) => {
   const formData = await request.formData();
 
-  const series = getSeries(Number(formData.get("series")))?.index ?? 1;
-  const season = getSeason(series, Number(formData.get("season")))?.index ?? 1;
+  const s = Number(formData.get("series"));
+  const sz = Number(formData.get("season"));
 
-  return redirect(`/series/${series}/season/${season}`);
+  const series = await getSeries(s);
+  const season = await getSeason(s, sz);
+
+  return redirect(`/series/${series?.index ?? 1}/season/${season?.index ?? 1}`);
 };
 
-const paintingSrc = (series: number, episode: Episode) => {
-  return `/img/series/${series}/season/${episode.seasonId}/${episode.index}.jpg`;
+const paintingSrc = (series: Series, season: Season, episode: Episode) => {
+  return `/img/series/${series.index}/season/${season.index}/${episode.index}.jpg`;
 };
 
 const episodeLabel = (episode: Episode) => {
-  return `S${episode.seasonId.toString().padStart(2, "0")}E${episode.index
+  return `S${episode.index.toString().padStart(2, "0")}E${episode.index
     .toString()
     .padStart(2, "0")}`;
 };
@@ -116,14 +120,14 @@ export default function Season() {
       <div className="mt-12 mx-auto grid gap-5 lg:grid-cols-3 lg-max-w-none">
         {selectedSeason.episodes.map((episode: Episode) => (
           <Link
-            key={`${episode.seasonId}-${episode.index}`}
-            to={`/series/${selectedSeries.index}/season/${episode.seasonId}/episode/${episode.index}`}
+            key={`${selectedSeason.index}-${episode.index}`}
+            to={`/series/${selectedSeries.index}/season/${selectedSeason.index}/episode/${episode.index}`}
             className="cursor-pointer flex flex-col rounded-lg shadow-lg overflow-hidden no-underline"
           >
             <div className="flex-shrink-0 flex justify-center">
               <img
-                src={paintingSrc(selectedSeries.index, episode)}
-                alt={episode.painting.title}
+                src={paintingSrc(selectedSeries, selectedSeason, episode)}
+                alt={episode.paintings[0].title}
                 loading="lazy"
                 className="h-72"
               ></img>
@@ -132,11 +136,13 @@ export default function Season() {
               <div className="flex-1">
                 <div className="text-sm font-medium text-indigo-600">
                   <p className="hover:underline">
-                    {`${episodeLabel(episode)} - ${episode.painting.canvas}`}
+                    {`${episodeLabel(episode)} - ${
+                      episode.paintings[0].canvas
+                    }`}
                   </p>
                 </div>
                 <p className="text-xl font-semibold text-gray-900">
-                  {episode.painting.title}
+                  {episode.paintings[0].title}
                 </p>
                 <p className="mt-3 text-base text-gray-500">
                   {episode.summary}

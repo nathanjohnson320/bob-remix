@@ -1,12 +1,15 @@
 import { LoaderFunction, useLoaderData } from "remix";
-import { getEpisode } from "~/data";
-import { Color, Episode, Tool } from "~/types";
+import { Episode, getEpisode } from "~/episode";
+import { Color } from "~/color";
+import { Tool } from "~/tool";
 import { VideoCameraIcon } from "@heroicons/react/solid";
 
-export const loader: LoaderFunction = ({
-  params,
-}) => {
-  const episode = getEpisode(Number(params.series), Number(params.season), Number(params.episode));
+export const loader: LoaderFunction = async ({ params }) => {
+  const episode = await getEpisode(
+    Number(params.series),
+    Number(params.season),
+    Number(params.episode)
+  );
   if (!episode) {
     throw new Response("Not Found", {
       status: 404,
@@ -32,6 +35,7 @@ const iframeUrl = (url: string) => {
 
 export default function Episode() {
   const { episode } = useLoaderData();
+  const painting = episode.paintings[0];
 
   return (
     <div className="bg-white overflow-hidden">
@@ -40,10 +44,10 @@ export default function Episode() {
         <div className="mx-auto text-base max-w-prose lg:grid lg:grid-cols-2 lg:gap-8 lg:max-w-none">
           <div>
             <h2 className="text-base text-indigo-600 font-semibold tracking-wide uppercase">
-              {`${episode.painting.canvas} Canvas`}
+              {`${painting?.canvas} Canvas`}
             </h2>
             <h3 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              {episode.painting.title}
+              {painting?.title}
             </h3>
           </div>
         </div>
@@ -65,7 +69,7 @@ export default function Episode() {
                     className="flex-none w-5 h-5 text-gray-400"
                     aria-hidden="true"
                   />
-                  <span className="ml-2">{episode.painting.artist.name}</span>
+                  <span className="ml-2">{painting?.artists?.name}</span>
                 </figcaption>
               </figure>
             </div>
@@ -78,7 +82,7 @@ export default function Episode() {
             <div className="mt-5 prose prose-indigo text-gray-500 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
               <p>Tools</p>
               <ul>
-                {episode.painting.tools.map((tool: Tool) => (
+                {painting.tools.map((tool: Tool) => (
                   <li key={tool.name}>
                     <a rel="noreferrer" target="_blank" href={tool.url}>
                       {toTitleCase(tool.name)}
@@ -91,7 +95,7 @@ export default function Episode() {
             <div className="mt-5 prose prose-indigo text-gray-500 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
               <p>Colors</p>
 
-              {episode.painting.colors.map((color: Color) => (
+              {painting.colors.map((color: Color) => (
                 <div className="flex items-center" key={color.name}>
                   <p
                     className="w-4 h-4 rounded mr-4 border"
