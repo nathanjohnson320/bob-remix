@@ -1,5 +1,5 @@
 import { Episode } from "./episode";
-import { supabase } from "./db.server";
+import { supabase } from "./db";
 
 export type Season = {
   index: number;

@@ -1,5 +1,5 @@
 import { Painting } from "./painting";
-import { supabase } from "./db.server";
+import { supabase } from "./db";
 
 export type Episode = {
   index: number;
