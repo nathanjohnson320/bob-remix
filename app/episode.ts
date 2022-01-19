@@ -50,6 +50,8 @@ export async function getEpisode(
     .eq("seasons.series.index", series)
     .eq("seasons.index", season)
     .eq("index", index)
+    .order("name", { foreignTable: "paintings.colors" })
+    .order("name", { foreignTable: "paintings.tools" })
     .limit(1)
     .single();
 
