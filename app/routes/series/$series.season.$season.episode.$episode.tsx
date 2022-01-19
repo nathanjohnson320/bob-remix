@@ -82,30 +82,34 @@ export default function Episode() {
             <div className="mt-5 prose prose-indigo text-gray-500 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
               <p>Tools</p>
               <ul>
-                {painting.tools.map((tool: Tool) => (
-                  <li key={tool.name}>
-                    <a rel="noreferrer" target="_blank" href={tool.url}>
-                      {toTitleCase(tool.name)}
-                    </a>
-                  </li>
-                ))}
+                {painting.tools
+                  .sort((a: Tool, b: Tool) => a.name > b.name)
+                  .map((tool: Tool) => (
+                    <li key={tool.name}>
+                      <a rel="noreferrer" target="_blank" href={tool.url}>
+                        {toTitleCase(tool.name)}
+                      </a>
+                    </li>
+                  ))}
               </ul>
             </div>
 
             <div className="mt-5 prose prose-indigo text-gray-500 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
               <p>Colors</p>
 
-              {painting.colors.map((color: Color) => (
-                <div className="flex items-center" key={color.name}>
-                  <p
-                    className="w-4 h-4 rounded mr-4 border"
-                    style={{ backgroundColor: `#${color.hex}` }}
-                  ></p>
-                  <a rel="noreferrer" target="_blank" href={color.url}>
-                    {toTitleCase(color.name)}
-                  </a>
-                </div>
-              ))}
+              {painting.colors
+                .sort((a: Color, b: Color) => a.name > b.name)
+                .map((color: Color) => (
+                  <div className="flex items-center" key={color.name}>
+                    <p
+                      className="w-4 h-4 rounded mr-4 border"
+                      style={{ backgroundColor: `#${color.hex}` }}
+                    ></p>
+                    <a rel="noreferrer" target="_blank" href={color.url}>
+                      {toTitleCase(color.name)}
+                    </a>
+                  </div>
+                ))}
             </div>
           </div>
         </div>
