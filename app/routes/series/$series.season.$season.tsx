@@ -7,6 +7,7 @@ import {
   ActionFunction,
   redirect,
   useSubmit,
+  useTransition,
 } from "remix";
 import { Series, listSeries, getSeries } from "~/series";
 import { Season, listSeasons, getSeason } from "~/season";
@@ -64,6 +65,7 @@ const episodeLabel = (season: Season, episode: Episode) => {
 export default function Season() {
   const { series, selectedSeries, seasons, selectedSeason } = useLoaderData();
   const submit = useSubmit();
+  const { state } = useTransition();
 
   function handleChange(e: FormEvent<HTMLFormElement>) {
     submit(e.currentTarget, { replace: true });
@@ -118,39 +120,59 @@ export default function Season() {
         </div>
       </div>
       <div className="mt-12 mx-auto grid gap-5 lg:grid-cols-3 lg-max-w-none">
-        {selectedSeason.episodes.map((episode: Episode) => (
-          <Link
-            key={`${selectedSeason.index}-${episode.index}`}
-            to={`/series/${selectedSeries.index}/season/${selectedSeason.index}/episode/${episode.index}`}
-            className="cursor-pointer flex flex-col rounded-lg shadow-lg overflow-hidden no-underline"
-          >
-            <div className="flex-shrink-0 flex justify-center">
-              <img
-                src={paintingSrc(selectedSeries, selectedSeason, episode)}
-                alt={episode.paintings[0].title}
-                loading="lazy"
-                className="h-72"
-              ></img>
-            </div>
-            <div className="flex-1 bg-white p-6 flex flex-col justify-between">
-              <div className="flex-1">
-                <div className="text-sm font-medium text-indigo-600">
-                  <p className="hover:underline">
-                    {`${episodeLabel(selectedSeason, episode)} - ${
-                      episode.paintings[0].canvas
-                    }`}
-                  </p>
+        {state === "idle"
+          ? selectedSeason.episodes.map((episode: Episode) => (
+              <Link
+                key={`${selectedSeason.index}-${episode.index}`}
+                to={`/series/${selectedSeries.index}/season/${selectedSeason.index}/episode/${episode.index}`}
+                className="cursor-pointer flex flex-col rounded-lg shadow-lg overflow-hidden no-underline"
+              >
+                <div className="flex-shrink-0 flex justify-center">
+                  <img
+                    src={paintingSrc(selectedSeries, selectedSeason, episode)}
+                    alt={episode.paintings[0].title}
+                    loading="lazy"
+                    className="h-72"
+                  ></img>
                 </div>
-                <p className="text-xl font-semibold text-gray-900">
-                  {episode.paintings[0].title}
-                </p>
-                <p className="mt-3 text-base text-gray-500">
-                  {episode.summary}
-                </p>
-              </div>
-            </div>
-          </Link>
-        ))}
+                <div className="flex-1 bg-white p-6 flex flex-col justify-between">
+                  <div className="flex-1">
+                    <div className="text-sm font-medium text-indigo-600">
+                      <p className="hover:underline">
+                        {`${episodeLabel(selectedSeason, episode)} - ${
+                          episode.paintings[0].canvas
+                        }`}
+                      </p>
+                    </div>
+                    <p className="text-xl font-semibold text-gray-900">
+                      {episode.paintings[0].title}
+                    </p>
+                    <p className="mt-3 text-base text-gray-500">
+                      {episode.summary}
+                    </p>
+                  </div>
+                </div>
+              </Link>
+            ))
+          : Array(13)
+              .fill(0)
+              .map((_, i) => (
+                <div
+                  key={`${i}`}
+                  className="cursor-pointer flex flex-col rounded-lg shadow-lg overflow-hidden no-underline animate-pulse"
+                >
+                  <div className="flex-shrink-0 flex justify-center">
+                    <div className="h-72 w-full bg-gray-300"></div>
+                  </div>
+                  <div className="flex-1 bg-white p-6 flex flex-col justify-between">
+                    <div className="flex-1">
+                      <div className="h-4 bg-indigo-600 rounded-md mb-2 w-24"></div>
+                      <div className="w-36 bg-black h-6"></div>
+                      <p className="mt-3 h-12 bg-gray-500"></p>
+                    </div>
+                  </div>
+                </div>
+              ))}
       </div>
     </div>
   );
