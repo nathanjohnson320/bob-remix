@@ -24,7 +24,8 @@ export async function listSeasons(series: number): Promise<Season[]> {
       series!inner(*)
     `
     )
-    .eq("series.index", series);
+    .eq("series.index", series)
+    .order("index", { foreignTable: "episodes" });
 
   return data as Season[];
 }
