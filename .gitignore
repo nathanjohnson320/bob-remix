@@ -9,3 +9,7 @@ erl_crash.dump
 .mf
 app/tailwind.css
 .env
+# Supabase
+**/supabase/.branches
+**/supabase/.temp
+**/supabase/.env

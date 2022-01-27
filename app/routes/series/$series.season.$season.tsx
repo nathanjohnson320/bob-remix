@@ -12,6 +12,7 @@ import {
 import { Series, listSeries, getSeries } from "~/series";
 import { Season, listSeasons, getSeason } from "~/season";
 import { Episode } from "~/episode";
+import { paintingSrc } from "~/painting";
 
 export const loader: LoaderFunction = async ({ params }) => {
   const series = await listSeries();
@@ -50,10 +51,6 @@ export const action: ActionFunction = async ({ request }) => {
   const season = await getSeason(s, sz);
 
   return redirect(`/series/${series?.index ?? 1}/season/${season?.index ?? 1}`);
-};
-
-const paintingSrc = (series: Series, season: Season, episode: Episode) => {
-  return `/img/series/${series.index}/season/${season.index}/${episode.index}.jpg`;
 };
 
 const episodeLabel = (season: Season, episode: Episode) => {

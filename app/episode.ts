@@ -9,6 +9,7 @@ export type Episode = {
   url: string;
   season_id: number;
   paintings: Painting[];
+  embeddable: boolean;
 };
 
 export async function getEpisode(
