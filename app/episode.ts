@@ -26,6 +26,7 @@ export async function getEpisode(
     duration,
     summary,
     url,
+    embeddable,
     paintings (
       canvas,
       title,
