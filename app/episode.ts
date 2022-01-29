@@ -1,5 +1,12 @@
 import { Painting } from "./painting";
+import { Season } from "./season";
 import { supabase } from "./db";
+
+enum EpisodeType {
+  Embedded = "embedded",
+  Paid = "paid",
+  External = "external",
+}
 
 export type Episode = {
   index: number;
@@ -9,7 +16,8 @@ export type Episode = {
   url: string;
   season_id: number;
   paintings: Painting[];
-  embeddable: boolean;
+  seasons: Season;
+  type: EpisodeType;
 };
 
 export async function getEpisode(
@@ -26,7 +34,7 @@ export async function getEpisode(
     duration,
     summary,
     url,
-    embeddable,
+    type,
     paintings (
       canvas,
       title,

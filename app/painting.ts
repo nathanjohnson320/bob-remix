@@ -11,7 +11,7 @@ export type Painting = {
   width: number;
   canvas: string;
   episode_id: number;
-  artist: Artist;
+  artists: Artist;
   tools: Tool[];
   colors: Color[];
 };

@@ -1,9 +1,11 @@
 import { Episode } from "./episode";
+import { Series } from "./series";
 import { supabase } from "./db";
 
 export type Season = {
   index: number;
   episodes: Episode[];
+  series: Series;
 };
 
 export async function listSeasons(series: number): Promise<Season[]> {
