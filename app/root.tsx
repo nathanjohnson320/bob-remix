@@ -8,7 +8,7 @@ import {
 } from "remix";
 import type { MetaFunction } from "remix";
 import { Link } from "remix";
-import { Fragment } from "react";
+import React, { Fragment, ReactSVGElement, SVGProps } from "react";
 import { Popover, Transition } from "@headlessui/react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
 import styles from "./tailwind.css";
@@ -29,6 +29,51 @@ export function links() {
 
 export default function App() {
   const navigation = [{ name: "Browse", href: "/series/1/season/1" }];
+
+  const footer = [
+    {
+      name: "Email",
+      href: "mailto:admin@paintbynate.art",
+      icon: (props: SVGProps<SVGSVGElement>) => (
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          className="h-6 w-6"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          {...props}
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
+          />
+        </svg>
+      ),
+    },
+    {
+      name: "LinkTree",
+      href: "https://linktr.ee/paintbynate",
+      icon: (props: SVGProps<SVGSVGElement>) => (
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          className="h-6 w-6"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          {...props}
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+          />
+        </svg>
+      ),
+    },
+  ];
 
   return (
     <html lang="en">
@@ -171,6 +216,31 @@ export default function App() {
             <Outlet />
           </div>
         </div>
+
+        <footer className="bg-white">
+          <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
+            <div className="flex justify-center space-x-6 md:order-2">
+              {footer.map((item) => (
+                <a
+                  key={item.name}
+                  href={item.href}
+                  rel="noopener noreferrer nofollow"
+                  target="_blank"
+                  className="text-gray-400 hover:text-gray-500"
+                >
+                  <span className="sr-only">{item.name}</span>
+                  <item.icon className="h-6 w-6" aria-hidden="true" />
+                </a>
+              ))}
+            </div>
+            <div className="mt-8 md:mt-0 md:order-1">
+              <p className="text-center text-base text-gray-400">
+                &copy; {new Date().getFullYear()} Paint By Nate. All rights
+                reserved.
+              </p>
+            </div>
+          </div>
+        </footer>
 
         <ScrollRestoration />
         <Scripts />
