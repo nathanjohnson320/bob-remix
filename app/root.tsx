@@ -21,7 +21,7 @@ export function links() {
   return [
     {
       rel: "stylesheet",
-      href: "https://fonts.googleapis.com/css?family=Open+Sans",
+      href: "https://fonts.googleapis.com/css?family=Libre+Baskerville",
     },
     { rel: "stylesheet", href: styles },
   ];
