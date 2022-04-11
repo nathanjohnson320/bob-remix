@@ -4,12 +4,7 @@ node_modules
 /build
 /dist
 /public/build
-.elixir_ls
-erl_crash.dump
-.mf
-app/tailwind.css
+/.mf
 .env
-# Supabase
-**/supabase/.branches
-**/supabase/.temp
-**/supabase/.env
+
+app/tailwind.css

@@ -1,21 +1,23 @@
+import type { MetaFunction } from "@remix-run/cloudflare";
 import {
   Links,
+  Link,
   LiveReload,
   Meta,
   Outlet,
   Scripts,
   ScrollRestoration,
-} from "remix";
-import type { MetaFunction } from "remix";
-import { Link } from "remix";
-import React, { Fragment, ReactSVGElement, SVGProps } from "react";
+} from "@remix-run/react";
 import { Popover, Transition } from "@headlessui/react";
+import { Fragment, SVGProps } from "react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
 import styles from "./tailwind.css";
 
-export const meta: MetaFunction = () => {
-  return { title: "Bob Ross Videos" };
-};
+export const meta: MetaFunction = () => ({
+  charset: "utf-8",
+  title: "Bob Ross Videos",
+  viewport: "width=device-width,initial-scale=1",
+});
 
 export function links() {
   return [

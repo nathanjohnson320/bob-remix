@@ -1,15 +1,18 @@
 import { FormEvent } from "react";
 import {
-  LoaderFunction,
   useLoaderData,
   Link,
   Form,
-  ActionFunction,
-  redirect,
   useSubmit,
   useTransition,
-} from "remix";
-import { Series, listSeries, getSeries } from "~/series";
+} from "@remix-run/react";
+import {
+  LoaderFunction,
+  ActionFunction,
+  redirect,
+} from "@remix-run/cloudflare";
+
+import { listSeries, getSeries } from "~/series";
 import { Season, listSeasons, getSeason } from "~/season";
 import { Episode } from "~/episode";
 import { paintingSrc } from "~/painting";
