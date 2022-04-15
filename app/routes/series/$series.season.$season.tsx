@@ -62,7 +62,7 @@ const episodeLabel = (season: Season, episode: Episode) => {
     .padStart(2, "0")}`;
 };
 
-export default function Season() {
+export default function ShowSeason() {
   const { series, selectedSeries, seasons, selectedSeason } = useLoaderData();
   const submit = useSubmit();
   const { state, type } = useTransition();

@@ -29,7 +29,7 @@ const toTitleCase = (str: string) => {
   });
 };
 
-export default function Episode() {
+export default function ShowEpisode() {
   const { episode }: { episode: Episode } = useLoaderData();
   const painting = episode.paintings[0];
 
